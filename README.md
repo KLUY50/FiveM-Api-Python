@@ -2,7 +2,7 @@
  - Get Server Info
  - Get Players Info
 
-# How to use
+# Example
 ```python
 from fivem import FiveM
 
