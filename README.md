@@ -11,5 +11,6 @@ print(server.getServerInfo())
 ```
 
 # Guidelines
-ขอบคุณ [ekkamon](https://github.com/ekkamon)\n
+ขอบคุณ [ekkamon](https://github.com/ekkamon)
+
 [FiveM API PHP By Ekkamon](https://github.com/ekkamon/FiveM-API-PHP)
